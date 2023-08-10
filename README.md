@@ -1,5 +1,6 @@
 # EXIF_GPS_Gallery3
 This page will tell you how to fix EXIF_GPS model and let it work in 2023
+Model link: http://galleryproject.org/node/94762
 
 ## 1. open dir
 `/modules/exif_gps/views`
